@@ -12,8 +12,8 @@ g_uri = "1006621.cbd.json"
 g = Graph()
 g.parse(g_uri)
 print("\nNumber of statements in graph from %s is %d" % (g_uri, len(g)))
-bind_namespace_prefixes(g)
-print(g.serialize(format='n3'))
+#bind_namespace_prefixes(g)
+#print(g.serialize(format='n3'))
 
 # https://rdflib.readthedocs.io/en/stable/apidocs/rdflib.html#rdflib.graph.Graph.cbd
 w_uri = "http://id.loc.gov/resources/instances/1006621"

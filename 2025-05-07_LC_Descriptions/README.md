@@ -1,6 +1,6 @@
 # Understanding LC BIBFRAME graphs
 
-Consider and instance of Kafka's "The Trial": <https://id.loc.gov/resources/instances/1006621.html>
+Consider an instance of Kafka's "The Trial": <https://id.loc.gov/resources/instances/1006621.html>
 
 The data is available in many forms, including JSON-LD: <https://id.loc.gov/resources/instances/1006621.cbd.json>
 
@@ -8,7 +8,7 @@ A picture of this can be obtained through the <https://www.ldf.fi/service/rdf-gr
 
 # What does the `.cbd` in the URL mean?
 
-This is not a Concise Bounded Description (CBD) for an entity as defined by <https://www.w3.org/submissions/CBD/>. For example, the `bf:Instance` description in <> includes:
+This is not a Concise Bounded Description (CBD) for an entity as defined by <https://www.w3.org/submissions/CBD/>. For example, the `bf:Instance` description of `http://id.loc.gov/resources/instances/1006621` in <https://id.loc.gov/resources/instances/1006621.cbd.json> includes:
 
 ```
 <http://id.loc.gov/resources/instances/1006621> a bf:Instance ;
