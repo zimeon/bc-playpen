@@ -1,0 +1,13 @@
+.cache
+.coverage
+tmp
+__pycache__
+*.pyc
+*~
+.DS_store
+build/
+dist/
+htmlcov/
+*.egg-info/
+.eggs/
+.tox/
