@@ -1,0 +1,1922 @@
+[
+    {
+        "@id": "_:b468iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Local"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+            {
+                "@value": "24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/assigner": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+            }
+        ]
+    },
+    {
+        "@id": "_:b55iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Extent"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "1 online resource (2 pages)."
+            }
+        ]
+    },
+    {
+        "@id": "_:b206iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Classification"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "Y 1.1/2:3428"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/source": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/classSchemes/sudocs"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/resources/works/24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Work",
+            "http://id.loc.gov/ontologies/bibframe/Text",
+            "http://id.loc.gov/ontologies/bibframe/Monograph"
+        ],
+        "http://id.loc.gov/ontologies/bflc/aap": [
+            {
+                "@value": "United States Congress. House. Fees of receivers and registers of public land offices. Message from the President of the United States, returning without his approval House Bill No. 4804, entitled \"An Act To Amend Subdivision 10 of Section 2238 of the Revised Statutes of the United States.\" May 23, 1896. -- Referred to the Committee on the Public Lands and ordered to be printed"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/aap-normalized": [
+            {
+                "@value": "unitedstatescongresshousefeesofreceiversandregistersofpubliclandofficesmessagefromthepresidentoftheunitedstatesreturningwithouthisapprovalhousebillno4804entitled\"anacttoamendsubdivision10ofsection2238oftherevisedstatutesoftheunitedstates\"may231896referredtothecommitteeonthepubliclandsandorderedtobeprinted"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/language": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/languages/eng"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/governmentPubType": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mgovtpubtype/f"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/classification": [
+            {
+                "@id": "_:b176iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b196iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b206iddOtlocdOtgovresourcesworks24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/contribution": [
+            {
+                "@id": "_:b216iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b288iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b303iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b318iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b339iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b354iddOtlocdOtgovresourcesworks24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/title": [
+            {
+                "@id": "_:b232iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b236iddOtlocdOtgovresourcesworks24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/content": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/contentTypes/txt"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/subject": [
+            {
+                "@id": "http://id.loc.gov/authorities/subjects/sh85047672"
+            },
+            {
+                "@id": "http://id.loc.gov/authorities/subjects/sh85143088"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/genreForm": [
+            {
+                "@id": "_:b262iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b275iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "http://id.loc.gov/authorities/genreForms/gf2011026362"
+            }
+        ],
+        "http://purl.org/dc/terms/isPartOf": [
+            {
+                "@id": "http://id.loc.gov/resources/works"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/relation": [
+            {
+                "@id": "_:b370iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b399iddOtlocdOtgovresourcesworks24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/hasInstance": [
+            {
+                "@id": "http://id.loc.gov/resources/instances/24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+            {
+                "@id": "_:b429iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b443iddOtlocdOtgovresourcesworks24116199"
+            },
+            {
+                "@id": "_:b465iddOtlocdOtgovresourcesworks24116199"
+            }
+        ]
+    },
+    {
+        "@id": "_:b219iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Agent",
+            "http://id.loc.gov/ontologies/bibframe/Jurisdiction"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "United States Congress. House."
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/marcKey": [
+            {
+                "@value": "1101 $aUnited States$bCongress.$bHouse."
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/mgovtpubtype/f",
+        "@type": [
+            "http://id.loc.gov/ontologies/bflc/GovernmentPubType"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "federal or national"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "f"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/relators/aut",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Role",
+            "http://id.loc.gov/ontologies/bibframe/Role"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "author"
+            },
+            {
+                "@value": "author"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "aut"
+            },
+            {
+                "@value": "aut"
+            }
+        ]
+    },
+    {
+        "@id": "_:b236iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/VariantTitle"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/note": [
+            {
+                "@id": "_:b238iddOtlocdOtgovresourcesworks24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+            {
+                "@value": "H. Doc. 54-389"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/authorities/subjects/sh85047672",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Topic"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@language": "en",
+                "@value": "Fees, Administrative"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/marcKey": [
+            {
+                "@value": "150  $aFees, Administrative"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/rwo/agents/n79107874",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Agent",
+            "http://id.loc.gov/ontologies/bibframe/Organization"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "United States. Congress. House"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/marcKey": [
+            {
+                "@value": "1101 $aUnited States.$bCongress.$bHouse"
+            }
+        ]
+    },
+    {
+        "@id": "_:b488iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Note",
+            "http://id.loc.gov/vocabulary/mnotetype/internal"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "040  $aWYU$beng$cWYU$dOCLCO$dDLC"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/resources/instances/24116199-85X-1",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Instance",
+            "http://id.loc.gov/ontologies/bflc/SecondaryInstance"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/issuance": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/issuance/mono"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/media": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mediaTypes/c"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/carrier": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/carriers/cr"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/colorContent": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mcolor/mul"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/title": [
+            {
+                "@id": "_:b539iddOtlocdOtgovresourcesinstances24116199-85X-1"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/electronicLocator": [
+            {
+                "@id": "https://hdl.loc.gov/loc.law/llserialsetce.03428_00_00-089-0389-0000"
+            }
+        ],
+        "http://purl.org/dc/terms/isPartOf": [
+            {
+                "@id": "http://id.loc.gov/resources/instances"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/instanceOf": [
+            {
+                "@id": "http://id.loc.gov/resources/works/24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+            {
+                "@id": "_:b546iddOtlocdOtgovresourcesinstances24116199-85X-1"
+            },
+            {
+                "@id": "_:b560iddOtlocdOtgovresourcesinstances24116199-85X-1"
+            },
+            {
+                "@id": "_:b582iddOtlocdOtgovresourcesinstances24116199-85X-1"
+            }
+        ]
+    },
+    {
+        "@id": "_:b112iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Local"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+            {
+                "@value": "24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/assigner": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/organizations/dlc",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Organization",
+            "http://id.loc.gov/ontologies/bibframe/Organization",
+            "http://id.loc.gov/ontologies/bibframe/Organization",
+            "http://id.loc.gov/ontologies/bibframe/Organization"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "United States, Library of Congress"
+            },
+            {
+                "@value": "United States, Library of Congress"
+            },
+            {
+                "@value": "United States, Library of Congress"
+            },
+            {
+                "@value": "United States, Library of Congress"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/code",
+                "@value": "DLC"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+                "@value": "dlc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+                "@value": "US-dlc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/code",
+                "@value": "DLC"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+                "@value": "dlc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+                "@value": "US-dlc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/code",
+                "@value": "DLC"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+                "@value": "dlc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+                "@value": "US-dlc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/code",
+                "@value": "DLC"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+                "@value": "dlc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+                "@value": "US-dlc"
+            }
+        ]
+    },
+    {
+        "@id": "_:b288iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Contribution"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "_:b290iddOtlocdOtgovresourcesworks24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/role": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/mediaTypes/c",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Media",
+            "http://id.loc.gov/ontologies/bibframe/Media"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "computer"
+            },
+            {
+                "@value": "computer"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "c"
+            },
+            {
+                "@value": "c"
+            }
+        ]
+    },
+    {
+        "@id": "_:b443iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/status": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+            {
+                "@id": "https://github.com/lcnetdev/marc2bibframe2/tree/v2.10-dev"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/date": [
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                "@value": "2025-03-25T02:20:36.996496-04:00"
+            }
+        ]
+    },
+    {
+        "@id": "_:b196iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Classification"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "54-1:H.DOC.389"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/source": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/classSchemes/sudocs"
+            }
+        ]
+    },
+    {
+        "@id": "_:b605iddOtlocdOtgovresourcesinstances24116199-85X-1",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Note",
+            "http://id.loc.gov/vocabulary/mnotetype/internal"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "040  $aWYU$beng$cWYU$dOCLCO$dDLC"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/languages/eng",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Language",
+            "http://id.loc.gov/ontologies/bibframe/Language",
+            "http://id.loc.gov/ontologies/bibframe/Language",
+            "http://id.loc.gov/ontologies/bibframe/Language"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@language": "en",
+                "@value": "English"
+            },
+            {
+                "@language": "en",
+                "@value": "English"
+            },
+            {
+                "@language": "en",
+                "@value": "English"
+            },
+            {
+                "@language": "en",
+                "@value": "English"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#string",
+                "@value": "eng"
+            },
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#string",
+                "@value": "eng"
+            },
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#string",
+                "@value": "eng"
+            },
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#string",
+                "@value": "eng"
+            }
+        ]
+    },
+    {
+        "@id": "_:b51iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Title"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+            {
+                "@value": "Fees of receivers and registers of public land offices. Message from the President of the United States, returning without his approval House Bill No. 4804, entitled \"An Act To Amend Subdivision 10 of Section 2238 of the Revised Statutes of the United States.\" May 23, 1896. -- Referred to the Committee on the Public Lands and ordered to be printed"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Agent",
+            "http://id.loc.gov/ontologies/bibframe/Organization",
+            "http://id.loc.gov/ontologies/bibframe/Agent",
+            "http://id.loc.gov/ontologies/bibframe/Organization",
+            "http://id.loc.gov/ontologies/bibframe/Agent",
+            "http://id.loc.gov/ontologies/bibframe/Organization"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+            },
+            {
+                "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+            },
+            {
+                "@value": "United States, Library of Congress, Network Development and MARC Standards Office"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/code",
+                "@value": "DLC-MRC"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+                "@value": "dlcmrc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+                "@value": "US-dlcmrc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/code",
+                "@value": "DLC-MRC"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+                "@value": "dlcmrc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+                "@value": "US-dlcmrc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/code",
+                "@value": "DLC-MRC"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+                "@value": "dlcmrc"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+                "@value": "US-dlcmrc"
+            }
+        ]
+    },
+    {
+        "@id": "_:b290iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Agent",
+            "http://id.loc.gov/ontologies/bibframe/Person"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "Cleveland, Grover 1837-1908"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/marcKey": [
+            {
+                "@value": "7001 $aCleveland, Grover$d1837-1908"
+            }
+        ]
+    },
+    {
+        "@id": "_:b339iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Contribution"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "http://id.loc.gov/rwo/agents/n79107874"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/role": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/relators/aut"
+            }
+        ]
+    },
+    {
+        "@id": "_:b380iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Series",
+            "http://id.loc.gov/ontologies/bflc/Uncontrolled"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/status": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/t"
+            },
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/tr"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/title": [
+            {
+                "@id": "_:b395iddOtlocdOtgovresourcesworks24116199"
+            }
+        ]
+    },
+    {
+        "@id": "_:b29iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Lccn"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+            {
+                "@value": "  2024853073"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/relators/ctb",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Role",
+            "http://id.loc.gov/ontologies/bibframe/Role"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "contributor"
+            },
+            {
+                "@value": "contributor"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "ctb"
+            },
+            {
+                "@value": "ctb"
+            }
+        ]
+    },
+    {
+        "@id": "_:b465iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+            {
+                "@id": "http://id.loc.gov/ontologies/bibframe-2-5-0/"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+            {
+                "@id": "_:b468iddOtlocdOtgovresourcesworks24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/descriptionLanguage": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/languages/eng"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/note": [
+            {
+                "@id": "_:b488iddOtlocdOtgovresourcesworks24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/descriptionAuthentication": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/marcauthen/lccopycat"
+            }
+        ],
+        "http://id.loc.gov/ontologies/lclocal/d906": [
+            {
+                "@value": "=906     $a 0 $b cbc $c copycat $d u $e ncip $f 20 $g y-gencatlg"
+            }
+        ],
+        "http://id.loc.gov/ontologies/lclocal/d985": [
+            {
+                "@value": "=985     $a ll/llserialset/mono"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/54-1"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/H. Doc."
+            },
+            {
+                "@value": "=985     $a ll/llserialset/v3428"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/monobatch241227"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/monobatch"
+            }
+        ]
+    },
+    {
+        "@id": "_:b424iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Title"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+            {
+                "@value": "[United States congressional serial set]"
+            }
+        ]
+    },
+    {
+        "@id": "_:b262iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/GenreForm",
+            "http://www.loc.gov/mads/rdf/v1#GenreForm"
+        ],
+        "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+            {
+                "@value": "Government publication"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/source": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/genreFormSchemes/marcgt"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "Government publication"
+            }
+        ]
+    },
+    {
+        "@id": "_:b132iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Note",
+            "http://id.loc.gov/vocabulary/mnotetype/internal"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "040  $aWYU$beng$cWYU$dOCLCO$dDLC"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/issuance/mono",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Issuance",
+            "http://id.loc.gov/ontologies/bibframe/Issuance"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "single unit"
+            },
+            {
+                "@value": "single unit"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "mono"
+            },
+            {
+                "@value": "mono"
+            }
+        ]
+    },
+    {
+        "@id": "_:b87iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/status": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+            {
+                "@id": "https://github.com/lcnetdev/marc2bibframe2/tree/v2.10-dev"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/date": [
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                "@value": "2025-03-25T02:20:36.996496-04:00"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/mstatus/c",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Status",
+            "http://id.loc.gov/ontologies/bibframe/Status",
+            "http://id.loc.gov/ontologies/bibframe/Status"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "changed"
+            },
+            {
+                "@value": "changed"
+            },
+            {
+                "@value": "changed"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "c"
+            },
+            {
+                "@value": "c"
+            },
+            {
+                "@value": "c"
+            }
+        ]
+    },
+    {
+        "@id": "_:b73iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/status": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/date": [
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#date",
+                "@value": "2025-01-17"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "_:b83iddOtlocdOtgovresourcesinstances24116199"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/contentTypes/txt",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Content"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "text"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "txt"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/rwo/agents/n83005294",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Agent",
+            "http://id.loc.gov/ontologies/bibframe/Organization"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "United States. President (1893-1897 : Cleveland)"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/marcKey": [
+            {
+                "@value": "1101 $aUnited States.$bPresident (1893-1897 : Cleveland)"
+            }
+        ]
+    },
+    {
+        "@id": "_:b370iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Relation"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/relationship": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/relationship/series"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/seriesEnumeration": [
+            {
+                "@value": "no. 389"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/associatedResource": [
+            {
+                "@id": "_:b380iddOtlocdOtgovresourcesworks24116199"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/mstatus/tr",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Status",
+            "http://id.loc.gov/ontologies/bibframe/Status"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "traced"
+            },
+            {
+                "@value": "traced"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "tr"
+            },
+            {
+                "@value": "tr"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/relators/dst",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Role"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "distributor"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "dst"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/mstatus/n",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Status",
+            "http://id.loc.gov/ontologies/bibframe/Status",
+            "http://id.loc.gov/ontologies/bibframe/Status"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "new"
+            },
+            {
+                "@value": "new"
+            },
+            {
+                "@value": "new"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "n"
+            },
+            {
+                "@value": "n"
+            },
+            {
+                "@value": "n"
+            }
+        ]
+    },
+    {
+        "@id": "_:b318iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Contribution"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "http://id.loc.gov/rwo/agents/no2015002503"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/role": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/relators/pbl"
+            },
+            {
+                "@id": "http://id.loc.gov/vocabulary/relators/dst"
+            }
+        ]
+    },
+    {
+        "@id": "_:b429iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/status": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/date": [
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#date",
+                "@value": "2025-01-17"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "_:b439iddOtlocdOtgovresourcesworks24116199"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/carriers/cr",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Carrier",
+            "http://id.loc.gov/ontologies/bibframe/Carrier"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "online resource"
+            },
+            {
+                "@value": "online resource"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "cr"
+            },
+            {
+                "@value": "cr"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/relators/org",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Role"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "originator"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "org"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/mstatus/uba",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Status"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "used by assigner"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "uba"
+            }
+        ]
+    },
+    {
+        "@id": "_:b539iddOtlocdOtgovresourcesinstances24116199-85X-1",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Title"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+            {
+                "@value": "[Electronic resource]"
+            }
+        ]
+    },
+    {
+        "@id": "_:b83iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Agent"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "WYU"
+            }
+        ]
+    },
+    {
+        "@id": "_:b556iddOtlocdOtgovresourcesinstances24116199-85X-1",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Agent"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "WYU"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/authorities/genreForms/gf2011026362",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/GenreForm"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@language": "en",
+                "@value": "Legislative materials"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/marcKey": [
+            {
+                "@value": "155  $aLegislative materials"
+            }
+        ]
+    },
+    {
+        "@id": "_:b560iddOtlocdOtgovresourcesinstances24116199-85X-1",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/status": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/c"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/organizations/dlcmrc"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/generationProcess": [
+            {
+                "@id": "https://github.com/lcnetdev/marc2bibframe2/tree/v2.10-dev"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/date": [
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#dateTime",
+                "@value": "2025-03-25T02:20:36.996496-04:00"
+            }
+        ]
+    },
+    {
+        "@id": "_:b584iddOtlocdOtgovresourcesinstances24116199-85X-1",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Local"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+            {
+                "@value": "24116199-85X-1"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/assigner": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+            }
+        ]
+    },
+    {
+        "@id": "_:b109iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+            {
+                "@id": "http://id.loc.gov/ontologies/bibframe-2-5-0/"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+            {
+                "@id": "_:b112iddOtlocdOtgovresourcesinstances24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/descriptionLanguage": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/languages/eng"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/note": [
+            {
+                "@id": "_:b132iddOtlocdOtgovresourcesinstances24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/descriptionAuthentication": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/marcauthen/lccopycat"
+            }
+        ],
+        "http://id.loc.gov/ontologies/lclocal/d906": [
+            {
+                "@value": "=906     $a 0 $b cbc $c copycat $d u $e ncip $f 20 $g y-gencatlg"
+            }
+        ],
+        "http://id.loc.gov/ontologies/lclocal/d985": [
+            {
+                "@value": "=985     $a ll/llserialset/mono"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/54-1"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/H. Doc."
+            },
+            {
+                "@value": "=985     $a ll/llserialset/v3428"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/monobatch241227"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/monobatch"
+            }
+        ]
+    },
+    {
+        "@id": "_:b275iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/GenreForm",
+            "http://www.loc.gov/mads/rdf/v1#GenreForm"
+        ],
+        "http://www.loc.gov/mads/rdf/v1#authoritativeLabel": [
+            {
+                "@value": "Presidential communications and messages"
+            }
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "Presidential communications and messages"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/marcauthen/lccopycat",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication",
+            "http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication",
+            "http://id.loc.gov/ontologies/bibframe/DescriptionAuthentication"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "LC Copy Cataloging"
+            },
+            {
+                "@value": "LC Copy Cataloging"
+            },
+            {
+                "@value": "LC Copy Cataloging"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "lccopycat"
+            },
+            {
+                "@value": "lccopycat"
+            },
+            {
+                "@value": "lccopycat"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/classSchemes/sudocs",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Source",
+            "http://id.loc.gov/ontologies/bibframe/Source"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "Superintendent of Documents classification system"
+            },
+            {
+                "@value": "Superintendent of Documents classification system"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "sudocs"
+            },
+            {
+                "@value": "sudocs"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/resources/instances/24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Instance"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/issuance": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/issuance/mono"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/provisionActivity": [
+            {
+                "@id": "_:b10iddOtlocdOtgovresourcesinstances24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/publicationStatement": [
+            {
+                "@value": "[Washington, D.C.]: U.S. Government Printing Office, 1896"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+            {
+                "@id": "_:b29iddOtlocdOtgovresourcesinstances24116199"
+            },
+            {
+                "@id": "_:b33iddOtlocdOtgovresourcesinstances24116199"
+            },
+            {
+                "@id": "_:b47iddOtlocdOtgovresourcesinstances24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/title": [
+            {
+                "@id": "_:b51iddOtlocdOtgovresourcesinstances24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/extent": [
+            {
+                "@id": "_:b55iddOtlocdOtgovresourcesinstances24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/media": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mediaTypes/c"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/carrier": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/carriers/cr"
+            }
+        ],
+        "http://purl.org/dc/terms/isPartOf": [
+            {
+                "@id": "http://id.loc.gov/resources/instances"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/instanceOf": [
+            {
+                "@id": "http://id.loc.gov/resources/works/24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/adminMetadata": [
+            {
+                "@id": "_:b73iddOtlocdOtgovresourcesinstances24116199"
+            },
+            {
+                "@id": "_:b87iddOtlocdOtgovresourcesinstances24116199"
+            },
+            {
+                "@id": "_:b109iddOtlocdOtgovresourcesinstances24116199"
+            }
+        ]
+    },
+    {
+        "@id": "_:b47iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/OclcNumber"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+            {
+                "@value": "1065769111"
+            }
+        ]
+    },
+    {
+        "@id": "_:b238iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Note"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "Cited as"
+            }
+        ]
+    },
+    {
+        "@id": "_:b354iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Contribution"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "http://id.loc.gov/rwo/agents/n83005294"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/role": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/relators/ctb"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/countries/dcu",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Place"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@language": "en",
+                "@value": "District of Columbia"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#string",
+                "@value": "dcu"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/rwo/agents/no2015002503",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Agent",
+            "http://id.loc.gov/ontologies/bibframe/Organization"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "United States. Government Publishing Office"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/marcKey": [
+            {
+                "@value": "1101 $aUnited States.$bGovernment Publishing Office"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/relators/pbl",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Role"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "publisher"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "pbl"
+            }
+        ]
+    },
+    {
+        "@id": "_:b176iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/ClassificationLcc"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/classificationPortion": [
+            {
+                "@value": "KF12"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/assigner": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/organizations/dlc"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/status": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/uba"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/relationship/series",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Relationship",
+            "http://id.loc.gov/ontologies/bibframe/Relationship"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "series"
+            },
+            {
+                "@value": "series"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "series"
+            },
+            {
+                "@value": "series"
+            }
+        ]
+    },
+    {
+        "@id": "_:b33iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Local"
+        ],
+        "http://www.w3.org/1999/02/22-rdf-syntax-ns#value": [
+            {
+                "@value": "SERIALSET-03428_00_00-089-0389-0000"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/assigner": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/organizations/dgpo"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/genreFormSchemes/marcgt",
+        "@type": [
+            "http://www.loc.gov/mads/rdf/v1#Authority"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "MARC genre terms"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "marcgt"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/mstatus/t",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Status",
+            "http://id.loc.gov/ontologies/bibframe/Status"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "transcribed"
+            },
+            {
+                "@value": "transcribed"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "t"
+            },
+            {
+                "@value": "t"
+            }
+        ]
+    },
+    {
+        "@id": "_:b216iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Contribution",
+            "http://id.loc.gov/ontologies/bibframe/PrimaryContribution"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "_:b219iddOtlocdOtgovresourcesworks24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/role": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/relators/aut"
+            }
+        ]
+    },
+    {
+        "@id": "_:b395iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Title"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+            {
+                "@value": "House document / 54th Congress. House"
+            }
+        ]
+    },
+    {
+        "@id": "_:b399iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Relation"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/relationship": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/relationship/series"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/seriesEnumeration": [
+            {
+                "@value": "[serial no. 3428]"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/associatedResource": [
+            {
+                "@id": "_:b409iddOtlocdOtgovresourcesworks24116199"
+            }
+        ]
+    },
+    {
+        "@id": "_:b409iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Series",
+            "http://id.loc.gov/ontologies/bflc/Uncontrolled"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/status": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/t"
+            },
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/tr"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/title": [
+            {
+                "@id": "_:b424iddOtlocdOtgovresourcesworks24116199"
+            }
+        ]
+    },
+    {
+        "@id": "_:b439iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Agent"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "WYU"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/authorities/subjects/sh85143088",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Topic"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@language": "en",
+                "@value": "Veto"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/marcKey": [
+            {
+                "@value": "150 0$aVeto"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/organizations/dgpo",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Organization"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "United States, Government Publishing Office"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/code",
+                "@value": "DGPO"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/normalized",
+                "@value": "dgpo"
+            },
+            {
+                "@type": "http://id.loc.gov/datatypes/orgs/iso15511",
+                "@value": "US-dgpo"
+            }
+        ]
+    },
+    {
+        "@id": "_:b232iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Title"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/mainTitle": [
+            {
+                "@value": "Fees of receivers and registers of public land offices. Message from the President of the United States, returning without his approval House Bill No. 4804, entitled \"An Act To Amend Subdivision 10 of Section 2238 of the Revised Statutes of the United States.\" May 23, 1896. -- Referred to the Committee on the Public Lands and ordered to be printed"
+            }
+        ]
+    },
+    {
+        "@id": "_:b303iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Contribution"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "_:b305iddOtlocdOtgovresourcesworks24116199"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/role": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/relators/org"
+            }
+        ]
+    },
+    {
+        "@id": "http://id.loc.gov/vocabulary/mcolor/mul",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/ColorContent"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "color"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/code": [
+            {
+                "@value": "mul"
+            }
+        ]
+    },
+    {
+        "@id": "_:b546iddOtlocdOtgovresourcesinstances24116199-85X-1",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/status": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/mstatus/n"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/date": [
+            {
+                "@type": "http://www.w3.org/2001/XMLSchema#date",
+                "@value": "2025-01-17"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/agent": [
+            {
+                "@id": "_:b556iddOtlocdOtgovresourcesinstances24116199-85X-1"
+            }
+        ]
+    },
+    {
+        "@id": "_:b582iddOtlocdOtgovresourcesinstances24116199-85X-1",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/AdminMetadata"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/identifiedBy": [
+            {
+                "@id": "_:b584iddOtlocdOtgovresourcesinstances24116199-85X-1"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/descriptionLevel": [
+            {
+                "@id": "http://id.loc.gov/ontologies/bibframe-2-5-0/"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/descriptionLanguage": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/languages/eng"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/note": [
+            {
+                "@id": "_:b605iddOtlocdOtgovresourcesinstances24116199-85X-1"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/descriptionAuthentication": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/marcauthen/lccopycat"
+            }
+        ],
+        "http://id.loc.gov/ontologies/lclocal/d906": [
+            {
+                "@value": "=906     $a 0 $b cbc $c copycat $d u $e ncip $f 20 $g y-gencatlg"
+            }
+        ],
+        "http://id.loc.gov/ontologies/lclocal/d985": [
+            {
+                "@value": "=985     $a ll/llserialset/mono"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/54-1"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/H. Doc."
+            },
+            {
+                "@value": "=985     $a ll/llserialset/v3428"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/monobatch241227"
+            },
+            {
+                "@value": "=985     $a ll/llserialset/monobatch"
+            }
+        ]
+    },
+    {
+        "@id": "_:b10iddOtlocdOtgovresourcesinstances24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/ProvisionActivity",
+            "http://id.loc.gov/ontologies/bibframe/Publication"
+        ],
+        "http://id.loc.gov/ontologies/bibframe/date": [
+            {
+                "@type": "http://id.loc.gov/datatypes/edtf",
+                "@value": "1896"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bibframe/place": [
+            {
+                "@id": "http://id.loc.gov/vocabulary/countries/dcu"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/simplePlace": [
+            {
+                "@value": "[Washington, D.C.]"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/simpleAgent": [
+            {
+                "@value": "U.S. Government Printing Office"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/simpleDate": [
+            {
+                "@value": "1896"
+            }
+        ]
+    },
+    {
+        "@id": "_:b305iddOtlocdOtgovresourcesworks24116199",
+        "@type": [
+            "http://id.loc.gov/ontologies/bibframe/Agent",
+            "http://id.loc.gov/ontologies/bibframe/Person"
+        ],
+        "http://www.w3.org/2000/01/rdf-schema#label": [
+            {
+                "@value": "Grover Cleveland"
+            }
+        ],
+        "http://id.loc.gov/ontologies/bflc/marcKey": [
+            {
+                "@value": "7001 $aGrover Cleveland$eoriginator"
+            }
+        ]
+    }
+]
